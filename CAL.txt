@@ -1,1 +1,1 @@
-http://rustypot.com/
+rustypot.com
