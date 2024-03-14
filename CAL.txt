@@ -1,2 +1,4 @@
 ||rustypot.com^
 ||fmoviesz.to^
+||fmoviesz.to^
+||fortinet.com^
