@@ -8,5 +8,3 @@
 ||*.fortinet.net^
 ||fortiguard.net^
 ||*.fortiguard.net^
-
-
