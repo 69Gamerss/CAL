@@ -4,3 +4,9 @@
 ||.*fmoviesz.to^
 ||fortinet.com^
 ||*.fortinet.com^
+||fortinet.net^
+||*.fortinet.net^
+||fortiguard.net^
+||*.fortiguard.net^
+
+
